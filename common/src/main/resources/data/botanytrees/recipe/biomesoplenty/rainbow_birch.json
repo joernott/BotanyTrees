@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomesoplenty/rainbow_birch"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomesoplenty:rainbow_birch_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

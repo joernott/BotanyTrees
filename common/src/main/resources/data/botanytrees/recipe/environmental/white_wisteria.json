@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/environmental/white_wisteria"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "environmental:white_wisteria_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

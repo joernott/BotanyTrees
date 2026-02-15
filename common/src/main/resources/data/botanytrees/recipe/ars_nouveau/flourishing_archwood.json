@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/ars_nouveau/flourishing_archwood"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "ars_nouveau:green_archwood_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

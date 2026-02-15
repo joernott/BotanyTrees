@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/minecraft/flowering_azalea"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "minecraft:flowering_azalea",
+    "type":  "botanypots:block_derived_crop"
+}

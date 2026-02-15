@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/ecologics/coconut"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "ecologics:coconut_seedling",
+    "type":  "botanypots:block_derived_crop"
+}

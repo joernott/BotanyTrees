@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomeswevegone/red_maple"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomeswevegone:red_maple_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

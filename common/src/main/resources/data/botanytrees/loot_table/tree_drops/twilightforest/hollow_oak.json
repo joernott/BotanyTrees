@@ -1,0 +1,108 @@
+﻿{
+    "pools":  [
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  8,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  16
+                                                                          }
+                                                            }
+                                                        ],
+                                          "name":  "twilightforest:twilight_oak_log",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.10
+                                                             }
+                                                         ],
+                                          "name":  "twilightforest:liveroot",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  1,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  2
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.20
+                                                             }
+                                                         ],
+                                          "name":  "minecraft:stick",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  1,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  2
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.30
+                                                             }
+                                                         ],
+                                          "name":  "twilightforest:twilight_oak_sapling",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  2,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  4
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  }
+              ],
+    "type":  "minecraft:block",
+    "random_sequence":  "botanytrees:twilightforest/hollow_oak"
+}

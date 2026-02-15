@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/croptopia/grapefruit"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "croptopia:grapefruit_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

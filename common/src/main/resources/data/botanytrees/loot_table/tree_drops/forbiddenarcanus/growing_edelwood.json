@@ -1,0 +1,70 @@
+﻿{
+    "pools":  [
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  2,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  4
+                                                                          }
+                                                            }
+                                                        ],
+                                          "name":  "forbidden_arcanus:edelwood_log",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.25
+                                                             }
+                                                         ],
+                                          "name":  "forbidden_arcanus:edelwood_branch",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  1,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  2
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.01
+                                                             }
+                                                         ],
+                                          "name":  "forbidden_arcanus:growing_edelwood",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  }
+              ],
+    "type":  "minecraft:block",
+    "random_sequence":  "botanytrees:forbiddenarcanus/growing_edelwood"
+}

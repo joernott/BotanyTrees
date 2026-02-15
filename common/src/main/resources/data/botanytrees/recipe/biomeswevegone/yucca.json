@@ -1,0 +1,14 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomeswevegone/yucca"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomeswevegone:yucca_sapling",
+    "soil": {
+      "tag": "botanypots:soil/sand"
+    },
+    "type":  "botanypots:block_derived_crop"
+}

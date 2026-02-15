@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/allthemodium/demonic"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "allthemodium:demonic_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

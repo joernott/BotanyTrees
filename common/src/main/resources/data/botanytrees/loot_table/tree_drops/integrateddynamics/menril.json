@@ -1,0 +1,97 @@
+﻿{
+    "pools":  [
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  2,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  4
+                                                                          }
+                                                            }
+                                                        ],
+                                          "name":  "integrateddynamics:menril_log",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.25
+                                                             }
+                                                         ],
+                                          "name":  "minecraft:stick",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  1,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  2
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.25
+                                                             }
+                                                         ],
+                                          "name":  "integrateddynamics:menril_berries",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  1,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  2
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.01
+                                                             }
+                                                         ],
+                                          "name":  "integrateddynamics:menril_sapling",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  }
+              ],
+    "type":  "minecraft:block",
+    "random_sequence":  "botanytrees:integrateddynamics/menril"
+}

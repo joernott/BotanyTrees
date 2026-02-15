@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/fruittrees/citron"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "fruittrees:citron_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

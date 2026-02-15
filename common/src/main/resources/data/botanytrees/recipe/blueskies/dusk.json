@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/blueskies/dusk"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "blue_skies:dusk_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

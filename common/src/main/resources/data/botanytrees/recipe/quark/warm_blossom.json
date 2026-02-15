@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/quark/warm_blossom"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "quark:orange_blossom_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

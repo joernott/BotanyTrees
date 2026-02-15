@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/byg/white_mangrove"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "byg:white_mangrove_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

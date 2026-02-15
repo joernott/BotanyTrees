@@ -1,0 +1,16 @@
+﻿{
+    "pools":  [
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "name":  "biomeswevegone:cyan_tulip",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  }
+              ],
+    "type":  "minecraft:block",
+    "random_sequence":  "botanytrees:biomeswevegone/cyan_tulip"
+}

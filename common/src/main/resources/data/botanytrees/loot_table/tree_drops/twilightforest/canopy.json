@@ -1,0 +1,86 @@
+﻿{
+    "pools":  [
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  4,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  6
+                                                                          }
+                                                            }
+                                                        ],
+                                          "name":  "twilightforest:canopy_log",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.05
+                                                             }
+                                                         ],
+                                          "name":  "twilightforest:liveroot",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.20
+                                                             }
+                                                         ],
+                                          "name":  "minecraft:stick",
+                                          "functions":  [
+                                                            {
+                                                                "function":  "minecraft:set_count",
+                                                                "add":  false,
+                                                                "count":  {
+                                                                              "min":  1,
+                                                                              "type":  "minecraft:uniform",
+                                                                              "max":  2
+                                                                          }
+                                                            }
+                                                        ],
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  },
+                  {
+                      "bonus_rolls":  0,
+                      "rolls":  1,
+                      "entries":  [
+                                      {
+                                          "conditions":  [
+                                                             {
+                                                                 "condition":  "minecraft:random_chance",
+                                                                 "chance":  0.15
+                                                             }
+                                                         ],
+                                          "name":  "twilightforest:canopy_sapling",
+                                          "type":  "minecraft:item"
+                                      }
+                                  ]
+                  }
+              ],
+    "type":  "minecraft:block",
+    "random_sequence":  "botanytrees:twilightforest/canopy"
+}

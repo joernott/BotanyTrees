@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomeswevegone/white_sakura"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomeswevegone:white_sakura_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

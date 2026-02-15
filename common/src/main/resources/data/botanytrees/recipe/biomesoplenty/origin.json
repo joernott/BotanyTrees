@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomesoplenty/origin"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomesoplenty:origin_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

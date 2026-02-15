@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/terraqueous/mango"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "terraqueous:mango_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

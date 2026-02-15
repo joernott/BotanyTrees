@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/croptopia/date"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "croptopia:date_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

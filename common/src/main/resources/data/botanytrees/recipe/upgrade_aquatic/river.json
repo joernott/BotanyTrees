@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/upgrade_aquatic/river"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "upgrade_aquatic:river_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

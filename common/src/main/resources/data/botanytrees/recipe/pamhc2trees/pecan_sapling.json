@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/pamhc2trees/pecan_sapling"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "pamhc2trees:pecan_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

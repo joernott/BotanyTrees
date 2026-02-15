@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/croptopia/pecan"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "croptopia:pecan_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomemakeover/swamp_cypress"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomemakeover:swamp_cypress_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

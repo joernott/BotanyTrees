@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/terrestria/sakura"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "terrestria:sakura_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

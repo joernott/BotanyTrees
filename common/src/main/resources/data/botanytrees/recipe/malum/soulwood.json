@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/malum/soulwood"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "malum:soulwood_growth",
+    "type":  "botanypots:block_derived_crop"
+}

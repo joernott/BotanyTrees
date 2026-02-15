@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/ars_nouveau/cascading_archwood"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "ars_nouveau:blue_archwood_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

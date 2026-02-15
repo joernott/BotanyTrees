@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/uniquecrops/flywood"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "uniquecrops:flywood_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/atmospheric/rosewood"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "atmospheric:rosewood_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

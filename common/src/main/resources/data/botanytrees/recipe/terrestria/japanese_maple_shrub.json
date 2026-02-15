@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/terrestria/japanese_maple_shrub"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "terrestria:japanese_maple_shrub_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

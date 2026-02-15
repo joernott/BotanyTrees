@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomeswevegone/cyan_tulip"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomeswevegone:cyan_tulip",
+    "type":  "botanypots:block_derived_crop"
+}

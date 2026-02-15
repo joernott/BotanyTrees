@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomeswevegone/red_spruce"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomeswevegone:red_spruce_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

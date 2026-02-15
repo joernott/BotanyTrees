@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/ecologics/walnut"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "ecologics:walnut_sapling",
+    "type":  "botanypots:block_derived_crop"
+}

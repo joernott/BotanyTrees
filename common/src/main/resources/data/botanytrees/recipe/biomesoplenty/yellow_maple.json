@@ -1,0 +1,11 @@
+﻿{
+    "drops":  [
+                  {
+                      "type":  "botanypots:loot_table",
+                      "table_id":  "botanytrees:tree_drops/biomesoplenty/yellow_maple"
+                  }
+              ],
+    "grow_time":  2400,
+    "block":  "biomesoplenty:yellow_maple_sapling",
+    "type":  "botanypots:block_derived_crop"
+}
