@@ -7,5 +7,8 @@
               ],
     "grow_time":  2400,
     "block":  "biomesoplenty:empyreal_sapling",
+    "soil": {
+      "tag": "botanypots:soil/algal_end_stone"
+    },
     "type":  "botanypots:block_derived_crop"
 }

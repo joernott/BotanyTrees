@@ -2,10 +2,10 @@
     "drops":  [
                   {
                       "type":  "botanypots:loot_table",
-                      "table_id":  "botanytrees:tree_drops/biomemakeover/willow"
+                      "table_id":  "botanytrees:tree_drops/minecraft/cherry"
                   }
               ],
     "grow_time":  2400,
-    "block":  "biomemakeover:willow_sapling",
+    "block":  "biomesoplenty:snowblossom_sapling",
     "type":  "botanypots:block_derived_crop"
 }
