@@ -2,7 +2,7 @@
     "drops":  [
                   {
                       "type":  "botanypots:loot_table",
-                      "table_id":  "botanytrees:tree_drops/minecraft/cherry"
+                      "table_id":  "botanytrees:tree_drops/biomesoplenty/snowblossom"
                   }
               ],
     "grow_time":  2400,
